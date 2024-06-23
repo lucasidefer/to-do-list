@@ -7,7 +7,7 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="movie.mp4" alt="video" width="400px">
+    <img src="./src/printscreen.PNG" alt="video" width="400px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
